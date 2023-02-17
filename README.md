@@ -8,7 +8,7 @@
 
 <p>- 📫 you can reach me at kumawatrahul960@gmail.com</p>
 
-<p>- 📄 Know about my experiences by my <a href="drive.google.com/file/d/1gqCwweOSG7jsUwqwu8VrwteUD7oml4Yg/view?usp=sharing" target="blank" style="text-decoration: none"> resume</a> </p>
+<p>- 📄 Know about my experiences by my <a href="https://drive.google.com/file/d/1gqCwweOSG7jsUwqwu8VrwteUD7oml4Yg/view?usp=sharing" target="blank" style="text-decoration: none"> resume</a> </p>
 <br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
