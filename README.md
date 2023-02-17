@@ -1,4 +1,4 @@
-![logo](https://github.com/rk-universe/rk-universe/blob/main/Rahul%20kumawat_crope_version.png)
+![logo](https://i.postimg.cc/nhvRRptm/Rahul-kumawat-crope-version.png)
 <h1 align="center">Hi 👋, I'm Rahul Kumawat</h1>
 <h3 align="center">I am a passionate CS(AIML) student with a strong desire to learn and grow in the field of technology.</h3>
 <img align="right" alt='img' style="width:400px"src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
