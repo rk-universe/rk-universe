@@ -1,4 +1,4 @@
-<img src="https://i.postimg.cc/nhvRRptm/Rahul-kumawat-crope-version.png" style="width: 100%;
+<img src="Rahul kumawat_crope_version.png" style="width: 100%;
                                                             height: 50vh;
 
 
@@ -10,7 +10,7 @@
                         width: auto;
 
 
-" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+" src="programmer.gif">
 <p>- 🌱 I’m currently learning AI algorith and try to make them come in action</p>
 
 <p>- 👨‍💻 All of my projects are available at <a href="https://github.com/rk-universe"  target="blank"> github.com/rk-universe </a></p>
