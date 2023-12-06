@@ -34,7 +34,7 @@ Here are some of the projects I've worked on:
 - Leetcode: [rk-universe](https://leetcode.com/rk-universe/)
 - Codechef: [kumawatrahul96](https://www.codechef.com/users/kumawatrahul96)
 - Hackerrank: [@kumawatrahul960](https://www.hackerrank.com/kumawatrahul960)
-- 🌟 Unlock the story of my professional journey! Explore my [resume](https://drive.google.com/file/d/1xyHCZuA8Z450LR7PfJ9777bDjbOI2j-9/view?usp=sharing) and let's build something extraordinary together. 🚀
+- 🌟 Unlock the story of my professional journey! Explore my [resume](https://drive.google.com/file/d/1lkE8CgiMhbuPfM9wL6f-K-LUN-CpMOMb/view?usp=sharing)
 
 
 ## Fun Facts
